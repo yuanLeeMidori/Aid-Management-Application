@@ -10,9 +10,9 @@ the disaster area. The client application tracks the quantity of items needed, t
 on hand, and stores the information in a file for future use.
 The types of goods that need to be shipped are of two categories;
 
--Non-Perishable products, such as blankets and tents, which have no expiry date. We
+* Non-Perishable products, such as blankets and tents, which have no expiry date. We
 refer to products in this category as Product objects.
--Perishable products, such as food and medicine, that have an expiry date. We refer to
+* Perishable products, such as food and medicine, that have an expiry date. We refer to
 products in this category as Perishable.
 
 To complete this project you will need to create several classes that encapsulate your solution.
